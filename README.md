@@ -1,5 +1,3 @@
-# secondlargest
-secondlargest
 #include<stdio.h>
 int second(int n,int arr[])
 {
